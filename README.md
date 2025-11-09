@@ -1,8 +1,12 @@
 # 🌍 AIVA - Artificial Intelligence for a Vitalized Earth
 
-## "Because Earth Deserves a Digital Voice" �
+![AIVA Demo](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
+## "Because Earth Deserves a Digital Voice" 🎤
 
 *Finally, someone who listens to Mother Nature's complaints about us humans...*
+
+![Earth Talking](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ### 🤖 **Meet Your New Environmental Best Friend**
 
@@ -13,6 +17,9 @@ AIVA isn't just another boring environmental app - it's Earth's first AI therapi
 - **Your Guilt-Trip Generator** 😅 - Makes you feel bad about that plastic bottle (in a good way)
 
 ### 🎭 **What Makes AIVA Hilariously Awesome**
+
+![Earth Emotions](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
 - **Emotional Earth**: Watch our planet throw tantrums when forests burn and celebrate when you plant trees
 - **Sarcastic AI Responses**: "Oh great, another oil spill. Just what I needed today." - Earth, probably
 - **3D Earth That Actually Cares**: A globe that judges your carbon footprint
@@ -20,6 +27,8 @@ AIVA isn't just another boring environmental app - it's Earth's first AI therapi
 - **Real-Time Drama**: Live environmental updates with more plot twists than a soap opera
 
 ## 🚀 **The Tech Magic Behind Earth's Attitude**
+
+![Coding Magic](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 ### **Frontend: The Pretty Face**
 - **Next.js 14** - Because regular websites are so 2020
@@ -41,6 +50,8 @@ AIVA isn't just another boring environmental app - it's Earth's first AI therapi
 - **Chunked TTS Pipeline** - Because Earth has A LOT to say and won't be cut off mid-rant
 
 ## 🏃‍♂️ **Quick Setup (Faster Than Climate Change)**
+
+![Fast Setup](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### 1. **Backend Setup** (Earth's Brain Surgery)
 ```bash
@@ -143,6 +154,8 @@ Result: One very opinionated digital planet
 
 ## 🔥 **Features That'll Blow Your (Sustainable) Mind**
 
+![Mind Blown](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
 1. **Earth Talks Back** - Finally, a planet with customer service
 2. **3D Earth Visualization** - Prettier than Instagram filters
 3. **Emotional Responses** - Earth has more feelings than a teenager
@@ -164,6 +177,8 @@ Result: One very opinionated digital planet
 
 ## 🎭 **The AIVA Experience**
 
+![Earth Conversation](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
+
 **User**: "How are you feeling today, Earth?"
 
 **AIVA**: "Well, someone just cut down another rainforest, the ice caps are having an identity crisis, but hey - solar panel installations are up 12%! So I'm cautiously optimistic, like a parent watching their kid try to ride a bike while holding a chainsaw."
@@ -175,5 +190,7 @@ Result: One very opinionated digital planet
 ---
 
 🎯 **AIVA: Where Technology Meets Earth's Infinite Sass and Wisdom!**
+
+![Earth Dancing](https://media.giphy.com/media/26FLgGTPUDH6UGAbm/giphy.gif)
 
 *Built with love, coffee, and an unhealthy amount of environmental anxiety* ☕🌍💚
